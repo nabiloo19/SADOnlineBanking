@@ -1,2 +1,2 @@
 # SADOnlineBanking
-System Design and Analysis of an Online Banking System
+System Analysis and Design of an Online Banking System in Ethiopia.
